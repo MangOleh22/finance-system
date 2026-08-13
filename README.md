@@ -217,22 +217,9 @@ Aplikasi ini dirancang dengan prinsip:
 - Session management
 - SQL injection prevention (Eloquent ORM)
 
-## Pengembangan Lebih Lanjut
-
-Fitur yang dapat ditambahkan:
-- [ ] Notifikasi real-time
-- [ ] Multi-currency support
-- [ ] Recurring transactions
-- [ ] Budget planning
-- [ ] Financial goals tracking
-- [ ] Mobile app
-- [ ] API untuk integrasi
-
 ## Lisensi
 
 MIT License
 
-## Kontak
 
-Untuk pertanyaan atau dukungan, silakan hubungi tim pengembang.
 # finance-system
